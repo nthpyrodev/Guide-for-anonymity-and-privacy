@@ -104,12 +104,11 @@ Brief introduction (2-3 sentences)
 
 ## Writing Guidelines
 
-### Element Guideline
+### Element to Include
 
 - Clear title
 - Brief overview
 - Step-by-step instructions
-- Practical examples
 - Source citations
 - Tools/resources section
 
