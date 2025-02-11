@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 09:05:26 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessories</title>
+      <link>http://localhost:1313/docs/physical-anonymity/disguise-techniques/accessories/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/disguise-techniques/accessories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Body Language</title>
+      <link>http://localhost:1313/docs/physical-anonymity/disguise-techniques/body-language/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/disguise-techniques/body-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Booking Accommodations</title>
+      <link>http://localhost:1313/docs/physical-anonymity/travel-anonymously/booking-accommodations/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/travel-anonymously/booking-accommodations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cash vs Cards</title>
+      <link>http://localhost:1313/docs/physical-anonymity/travel-anonymously/cash-vs-cards/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/travel-anonymously/cash-vs-cards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clothing Choices</title>
+      <link>http://localhost:1313/docs/physical-anonymity/disguise-techniques/clothing-choices/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/disguise-techniques/clothing-choices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evading Cameras</title>
+      <link>http://localhost:1313/docs/physical-anonymity/avoiding-surveillance/evading-cameras/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/avoiding-surveillance/evading-cameras/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Facial Recognition</title>
+      <link>http://localhost:1313/docs/physical-anonymity/avoiding-surveillance/facial-recognition/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/avoiding-surveillance/facial-recognition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identifiable Markers</title>
+      <link>http://localhost:1313/docs/physical-anonymity/home-security/identifiable-markers/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/home-security/identifiable-markers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy Screens</title>
+      <link>http://localhost:1313/docs/physical-anonymity/home-security/privacy-screens/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/home-security/privacy-screens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflective Materials</title>
+      <link>http://localhost:1313/docs/physical-anonymity/avoiding-surveillance/reflective-materials/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/avoiding-surveillance/reflective-materials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Securing Home</title>
+      <link>http://localhost:1313/docs/physical-anonymity/home-security/securing-home/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/home-security/securing-home/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Surveilled Transportation</title>
+      <link>http://localhost:1313/docs/physical-anonymity/travel-anonymously/surveilled-transportation/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/travel-anonymously/surveilled-transportation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/docs/home/</link>
+      <pubDate>Tue, 11 Feb 2025 08:58:07 +0000</pubDate>
+      <guid>http://localhost:1313/docs/home/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

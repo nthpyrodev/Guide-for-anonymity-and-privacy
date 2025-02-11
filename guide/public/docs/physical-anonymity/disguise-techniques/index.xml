@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disguise Techniques on My New Hugo Site</title>
+    <link>http://localhost:1313/docs/physical-anonymity/disguise-techniques/</link>
+    <description>Recent content in Disguise Techniques on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Feb 2025 09:05:26 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/physical-anonymity/disguise-techniques/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessories</title>
+      <link>http://localhost:1313/docs/physical-anonymity/disguise-techniques/accessories/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/disguise-techniques/accessories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Body Language</title>
+      <link>http://localhost:1313/docs/physical-anonymity/disguise-techniques/body-language/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/disguise-techniques/body-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clothing Choices</title>
+      <link>http://localhost:1313/docs/physical-anonymity/disguise-techniques/clothing-choices/</link>
+      <pubDate>Tue, 11 Feb 2025 09:05:26 +0000</pubDate>
+      <guid>http://localhost:1313/docs/physical-anonymity/disguise-techniques/clothing-choices/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
